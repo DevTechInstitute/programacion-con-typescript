@@ -1,7 +1,7 @@
 # LOGICA DE PROGRAMACION CON TYPESCRIPT
 ## Instalacion del proyecto
 Abre la terminal integrada de VS Code desde la barra de navegacion o
-preciona ``Ctrl + Ñ`` y pega uno de los comandos.
+presiona ``Ctrl + Ñ`` y pega uno de los comandos.
 
 ```bash
 npm install
